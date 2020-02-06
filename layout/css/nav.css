@@ -1,0 +1,54 @@
+
+body{
+    background-color: rgb(252, 248, 248);
+}
+/*start upper-bar*/
+.upper-bar{
+    background-color:#08526d;
+    color:#fff;
+    padding:10px;
+}
+.upper-bar span{
+    color:#bfc6c9
+}
+.upper-bar .get-quote{
+    display: inline-block;
+    border:1px solid #ec1c23;
+    padding:2px 10px;
+    margin-left:20px;
+}
+/*end upper-bar*/
+/*start navbar*/
+.navbar-brand >span{
+    font-size:30px;
+    color:whitesmoke;
+    }
+    .navbar-brand span:first-child{
+        color:#fbff00;
+        font-weight: bold;
+    }
+    
+    #navmain .nav-link{
+        font-size: 16px;
+        text-transform: uppercase;
+        margin-left: 20px; 
+       color:whitesmoke;
+        font-weight: 500;
+    }
+    .navbar-nav .active > .nav-link{
+        color:#eeff00 !important;
+    }
+   
+    /*end navbar*/
+
+
+
+
+
+
+
+
+
+
+
+
